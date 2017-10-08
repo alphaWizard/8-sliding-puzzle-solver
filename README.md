@@ -1,4 +1,4 @@
-https://saythanks.io/to/alphaWizard
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/alphaWizard)
 
 # 8-sliding-puzzle-solver
 Solves the famous sliding puzzle  https://en.wikipedia.org/wiki/Sliding_puzzle by taking input of 3x3 matrix, and returning the optimal sequence of moves until destination.
